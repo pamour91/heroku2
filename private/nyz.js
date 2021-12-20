@@ -11,8 +11,8 @@
 const helpmenu = (wit,wita,wib,tampilTanggal, UserZeeone, tampilHari , limitawal, role, premi, sender, botname,pushname, prefix, wa_version, mcc, mnc, os_version, device_manufacturer, device_model ) => {
 	return`╭─❒ *INFO BOT* 
 │❒ ${petik}𝖭𝖺𝗆𝖺 : ${botname}${petik}
-│❒ ${petik}Author : Nayla${petik}
-│❒ ${petik}Recode : Zeeone${petik}
+│❒ ${petik}Author : PAMOUR${petik}
+│❒ ${petik}Recode : DIKA${petik}
 │❒ ${petik}Server : Baileys${petik}
 │❒ ${petik}RAM : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB${petik}
 │❒ ${petik}MCC : ${mcc}${petik}
@@ -723,7 +723,7 @@ ${petik}│❒ ${prefix}wetglass
 
 ╭─⧉ *THANKS TO* ⧉
 ├◪ 
-│❒ ${petik}NAYLACHAN${petik}  
+│❒ ${petik}PAMOUR${petik}  
 │❒ ${petik}RYNZ${petik}  
 │❒ ${petik}LOLI KILLERS${petik}  
 │❒ ${petik}ARA-ARA${petik} 
